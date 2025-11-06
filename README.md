@@ -3,7 +3,7 @@
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-mzalzahrani.github.io-00ff88?style=flat-square&logo=github)](https://mzalzahrani.github.io)
-[![Python](https://img.shields.io/badge/Python-Expert-3776ab?style=flat-square&logo=python)](https://github.com/mzalzahrani)
+[![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python)](https://github.com/mzalzahrani)
 [![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Researcher-00ff88?style=flat-square&logo=security)](https://mzalzahrani.github.io)
 
 </div>
