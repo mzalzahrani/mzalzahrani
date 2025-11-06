@@ -8,7 +8,7 @@
 
 </div>
 
-## 🔒 Cybersecurity Researcher & Python Developer
+## 🔒 Cybersecurity Researcher & Threat Hunter
 
 I'm a cybersecurity researcher specializing in **malware analysis**, **threat detection**, and **security automation**. I build Python tools that help security professionals analyze threats, process logs, and automate incident response workflows.
 
